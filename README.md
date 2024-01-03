@@ -1,9 +1,15 @@
 # A flet_api Flet app
 
-An example of a minimal Flet app.
+Flet app to call api json jsonplaceholder todos
 
-To run the app:
+## Install
 
 ```
-flet run [app_directory]
+pip install flet requests
+```
+
+## To run the app:
+
+```
+flet run 
 ```
